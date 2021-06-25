@@ -10,7 +10,7 @@
 
 ## 🔖  Guia de Estudos
 
-Para acessar o guia de estudos basta acessar esse [Guia de Estudos](.guia-estudos/README.md) ou entrar na pasta guia-estudos dentro do repositório.  
+Para acessar o guia de estudos basta acessar esse [Guia de Estudos](./guia-estudos/README.md) ou entrar na pasta guia-estudos dentro do repositório.  
 <br>
 
 ## 🚀 Linguagens e Habilidades que serão desenvolvidas no programa
