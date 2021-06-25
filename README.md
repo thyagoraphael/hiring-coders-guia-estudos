@@ -42,9 +42,11 @@ Estou participando do programa Fullstack da Hiring Coders, uma iniciativa da VTE
 
 Com isso decidi fazer um compilado de alguns artigos, cursos, tutoriais, vídeos e afins para ajudar quem está iniciando e também quem já tem algum conhecimento, pois sempre estamos aprendendo algo novo.
 
-## 🔖 O programa
+## 🔖 Sites dos idealizadores do programa
 
-Para saber sobre o programa Hiring Coders acesse esse [link](https://www.hiringcoders.com.br/). 
+- Hiring Coders acesse esse [link](https://www.hiringcoders.com.br/).
+- VTex acesse esse [link](https://vtex.com/br-pt/). 
+- Gama Academy acesse esse [link](https://www.gama.academy/). 
 
 ## :memo: Licença
 
