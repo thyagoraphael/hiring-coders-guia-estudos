@@ -11,7 +11,7 @@
 ## 🔖  Guia de Estudos
 <br>
 <br>
-Para acessar o guia de estudos basta acessar esse [link](./guia-estudos) ou entrar na pasta guia-estudos dentro do repositório. 
+Para acessar o guia de estudos basta acessar a pasta guia-estudos dentro do repositório. 
 <br>
 <br>
 
