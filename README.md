@@ -9,10 +9,8 @@
 <br>
 
 ## 🔖  Guia de Estudos
-<br>
-<br>
+
 Para acessar o guia de estudos basta acessar a pasta guia-estudos dentro do repositório. 
-<br>
 <br>
 
 ## 🚀 Linguagens e Habilidades que serão desenvolvidas no programa
