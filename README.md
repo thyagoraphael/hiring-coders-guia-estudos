@@ -48,9 +48,6 @@ Com isso decidi fazer um compilado de alguns artigos, cursos, tutoriais, vídeos
 - VTex acesse esse [link](https://vtex.com/br-pt/). 
 - Gama Academy acesse esse [link](https://www.gama.academy/). 
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
 
