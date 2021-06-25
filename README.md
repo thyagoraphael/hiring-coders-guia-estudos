@@ -3,7 +3,7 @@
 </h1
 
 <h1 align="center">
-    <img alt="Hiring Coders" title="Hiring Coders" src=".github/hiring-coders.png" width="220" height="50" style="background: #fff; padding: 10px;" />
+    <img alt="Hiring Coders" title="Hiring Coders" src=".github/hiring-coders.png" width="220" height="50" style="background-color: #fff; padding: 10px;" />
     <img alt="VTex" title="VTex" src=".github/vtex.svg" width="220" height="50" style="background: #fff; padding: 10px;" />
     <img alt="Gama Academy" title="Gama Academy" src=".github/gama-academy.png" width="220" height="50" style="background: #fff; padding: 10px;" />
 </h1>
